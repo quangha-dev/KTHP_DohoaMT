@@ -1,6 +1,9 @@
 Đề tài Phát triển ứng dụng trình diễn mô hình xe tăng 3D tương tác sử dụng OpenJl.
-Môn: Đồ hoạ máy tính
-Trường Đại học CMC
+
+Môn: Đồ hoạ máy 
+
+Trường Đại học 
+
 Tác giả: 
 Nguyễn Quang Hà
 Lê Đình Anh Đức
